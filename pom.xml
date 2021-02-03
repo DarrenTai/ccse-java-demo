@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ctg</groupId>
-    <artifactId>ccse-cicd-demo</artifactId>
+    <artifactId>ccse-java-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ccse-cicd-demo</name>
+    <name>ccse-java-demo</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>11</java.version>
